@@ -80,7 +80,7 @@ playstore.Installs = ________.apply(lambda x: x.replace(______))
 - Membuat atau menduplikasi histogram plot untuk melihat distribusi ukuran aplikasi 
 - Membuat 1 plot tambahan bebas yang dapat merepresentasikan insight di dalam data
 
-*Notes : Anda dapat melihat contoh plot lain yang hraus dibuat/diduplikat pada repositori ini. Silahkan clone/download repositori ini. 
+* Notes : Anda dapat melihat contoh plot lain yang hraus dibuat/diduplikat pada repositori ini. Silahkan clone/download repositori ini. 
 
 ### 5. Build Flask App 
 Mengacu pada poin ke empat Data Visualization di atas, selain membuat plot baru Anda harus mendemonstrasikan bagaimana cara merender plot tersebut pada aplikasi Flask dan menampilkannya pada templates / halaman html. Yang perlu Anda perhatikan adalah pada bagian `app.py`:
